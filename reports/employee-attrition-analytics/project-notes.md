@@ -28,3 +28,7 @@ Multi-page analytical report
 - Attrition patterns vary across departments and job roles.
 - Technology had the largest employee concentration.
 - Hiring trends shifted across reporting periods.
+
+## Dashboard Preview
+
+![Attrition Overview](screenshots/overview.png)
