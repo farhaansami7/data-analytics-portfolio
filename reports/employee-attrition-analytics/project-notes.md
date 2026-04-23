@@ -34,7 +34,7 @@ Multi-page analytical report
 - Attrition patterns differ across tenure groups.
 - Workforce demographics provide additional segmentation context.
 
-## Dashboard Preview
+## Report Preview
 
 ### Overview
 ![Attrition Overview](screenshots/overview.png)
