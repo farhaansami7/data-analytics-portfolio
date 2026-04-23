@@ -1,7 +1,7 @@
 # Employee Attrition Analytics Report
 
 ## Objective
-Analyze workforce attrition trends and identify patterns across departments, roles, and employee demographics.
+Analyze employee attrition patterns using workforce demographics, hiring trends, tenure, travel frequency, overtime requirements, and department-level job role data.
 
 ## Tools Used
 - Power BI
@@ -9,11 +9,13 @@ Analyze workforce attrition trends and identify patterns across departments, rol
 - Power Query
 
 ## Key Areas Covered
-- Overall attrition rate
-- Active vs inactive employees
-- Hiring trends over time
-- Department-level employee distribution
-- Job role analysis
+- Attrition rate monitoring
+- Active vs inactive employee analysis
+- Hiring trend analysis (2012–2022)
+- Employee demographics (age, marital status, gender distribution)
+- Department and job role attrition analysis
+- Tenure and business travel impact on attrition
+- Overtime vs attrition relationship
 
 ## Project Type
 Multi-page analytical report
@@ -21,14 +23,24 @@ Multi-page analytical report
 ## Key Features
 - Interactive filtering
 - Multi-page navigation
-- Department-level analysis
-- Attrition trend reporting
+- Department and job role drill-down
+- Trend analysis across time
+- Cross-dimensional workforce analysis
 
 ## Insights
-- Attrition patterns vary across departments and job roles.
-- Technology had the largest employee concentration.
-- Hiring trends shifted across reporting periods.
+- Attrition varies significantly by department and job role.
+- Overtime requirements appear associated with higher attrition.
+- Travel frequency shows potential impact on employee turnover.
+- Attrition patterns differ across tenure groups.
+- Workforce demographics provide additional segmentation context.
 
 ## Dashboard Preview
 
+### Overview
 ![Attrition Overview](screenshots/overview.png)
+
+### Demographics
+![Demographics](screenshots/demographics.png)
+
+### Attrition Analysis
+![Attrition Analysis](screenshots/attrition-analysis.png)
