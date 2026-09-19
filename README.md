@@ -4,20 +4,20 @@ Portfolio of Power BI reports and dashboards covering HR, finance, customer anal
 
 ## Featured Reports
 
-### 1. Employee Attrition Analytics Report
-Interactive multi-page Power BI report analyzing workforce attrition, demographics, tenure, overtime, and business travel patterns.
+### 1. Budget & Expenditure Analytics Report
+Multi-page financial analytics report covering budget monitoring, expenditure trends, department and cost-center analysis, drill-through reporting, tooltips, and mobile-optimized layouts.
 
-📂 View project: [Employee Attrition Analytics](reports/employee-attrition-analytics/project-notes.md)
+📂 View project: [Budget & Expenditure Analytics](reports/budget-expenditure-analytics/project-notes.md)
 
-### 2. Budget & Expenditure Analytics Report
-Financial analytics report featuring budget monitoring, expenditure analysis, drill-through pages, and mobile reporting layouts.
-
-(Coming next)
-
-### 3. Customer Churn Analysis Report
+### 2. Customer Churn Analysis Report
 Interactive multi-page Power BI report analyzing customer churn, demographics, contract types, tenure, service usage, and key churn drivers.
 
 📂 View project: [Customer Churn Analysis](reports/customer-churn-analysis/project-notes.md)
+
+### 3. Employee Attrition Analytics Report
+Interactive multi-page Power BI report analyzing workforce attrition, demographics, tenure, overtime, and business travel patterns.
+
+📂 View project: [Employee Attrition Analytics](reports/employee-attrition-analytics/project-notes.md)
 
 ---
 
@@ -42,4 +42,5 @@ Drug pipeline and trial success monitoring dashboard.
 - KPI Reporting
 - Drill-through Analysis
 - Dashboard Design
+- Mobile Report Design
 - Business Analysis
