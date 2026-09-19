@@ -51,7 +51,7 @@ Multi-page analytical report
 
 ### Overview
 
-![Overview](screenshots/overview (2).png)
+![Overview](screenshots/overview%20%282%29.png)
 
 ### Churn Demographics
 
