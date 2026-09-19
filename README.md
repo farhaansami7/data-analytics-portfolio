@@ -7,7 +7,7 @@ Portfolio of Power BI reports and dashboards covering HR, finance, customer anal
 ### 1. Employee Attrition Analytics Report
 Interactive multi-page Power BI report analyzing workforce attrition, demographics, tenure, overtime, and business travel patterns.
 
-📂 View project: reports/employee-attrition-analytics/project-notes.md
+📂 View project: [Employee Attrition Analytics](reports/employee-attrition-analytics/project-notes.md)
 
 ### 2. Budget & Expenditure Analytics Report
 Financial analytics report featuring budget monitoring, expenditure analysis, drill-through pages, and mobile reporting layouts.
@@ -15,9 +15,9 @@ Financial analytics report featuring budget monitoring, expenditure analysis, dr
 (Coming next)
 
 ### 3. Customer Churn Analysis Report
-Customer segmentation and churn driver analysis using multi-page reporting.
+Interactive multi-page Power BI report analyzing customer churn, demographics, contract types, tenure, service usage, and key churn drivers.
 
-(Coming next)
+📂 View project: [Customer Churn Analysis](reports/customer-churn-analysis/project-notes.md)
 
 ---
 
