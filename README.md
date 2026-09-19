@@ -24,23 +24,16 @@ Interactive multi-page Power BI report analyzing workforce attrition, demographi
 ## Dashboards
 
 ### Supply Chain & Finance Dashboard
-Inventory, supplier efficiency, and revenue-cost trend monitoring.
+Operational dashboard monitoring supplier efficiency, inventory levels, revenue and cost trends, stock expiry, and supplier locations.
 
-### Manufacturing Quality Dashboard
-Production, compliance, and defect monitoring dashboard.
+![Supply Chain & Finance Dashboard](dashboards/supply-chain-finance.png)
 
-### Clinical Trial & R&D Dashboard
-Drug pipeline and trial success monitoring dashboard.
+### Manufacturing & Quality Dashboard
+Manufacturing analytics dashboard tracking production volume, defect rates, compliance status, and batch-level quality performance.
 
----
+![Manufacturing & Quality Dashboard](dashboards/manufacturing-quality.png)
 
-## Skills Demonstrated
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- KPI Reporting
-- Drill-through Analysis
-- Dashboard Design
-- Mobile Report Design
-- Business Analysis
+### Research & Development Dashboard
+R&D dashboard analyzing clinical phases, drug discovery trends, trial success rates, and year-over-year pipeline distribution.
+
+![Research & Development Dashboard](dashboards/research-development.png)
